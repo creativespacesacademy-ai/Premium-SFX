@@ -1,6 +1,8 @@
 # Premium SFX Kit
 
-±1.040 sound effect untuk edit video Talking Head, motion graphic, animasi, dan reels. Disusun seperti SFX Kit Wyzowl: audio per kategori + katalog yang bisa dibaca Claude, lengkap dengan titik sinkron, loudness, dan saran gain.
+Repo: https://github.com/creativespacesacademy-ai/Premium-SFX
+
+1.038 sound effect untuk edit video Talking Head, motion graphic, animasi, dan reels. Disusun seperti SFX Kit Wyzowl: audio per kategori + katalog yang bisa dibaca Claude, lengkap dengan titik sinkron, loudness, dan saran gain.
 
 | File | Isi |
 |---|---|
@@ -24,8 +26,8 @@ Pasang skill **premium-sfx-kit**. Skill itu meng-clone repo ini, melengkapi kata
 3. Pakai **GitHub Desktop** (upload lewat browser dibatasi 100 file sekali unggah): *File → Add local repository* → pilih folder ini → commit semua → *Publish repository*, lalu hilangkan centang **Keep this code private**.
 4. Total ±420 MB. File terbesar 16,8 MB, jadi tidak perlu Git LFS.
 
-## Melengkapi katalog
-Katalog awal baru mencakup 450 file. Sisanya dilengkapi saat skill dipakai pertama kali, atau jalankan manual:
+## Memperbarui katalog
+Katalog sudah lengkap (1.038 suara, 0 blocked). Setiap kali menambah SFX baru, jalankan:
 
 ```
 python3 tools/build_catalogue.py --only-missing

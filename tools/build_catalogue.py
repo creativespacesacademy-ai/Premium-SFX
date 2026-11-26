@@ -190,7 +190,8 @@ def source_hint(tags, orig):
     who = tags.get("artist") or tags.get("composer") or tags.get("album_artist") or tags.get("publisher")
     if "sfx producer" in blob or (orig or "").startswith("ES_") or "epidemic" in blob:
         return {"flag": "blocked", "source": "Epidemic Sound", "tags": tags}
-    for kw in ("artlist", "envato", "motion array", "storyblocks", "pond5", "soundsnap", "audiojungle", "boom library"):
+    for kw in ("artlist", "envato", "motion array", "storyblocks", "pond5", "soundsnap", "audiojungle", "boom library",
+               "epic stock media", "videocopilot", "smartsound"):
         if kw in blob:
             return {"flag": "blocked", "source": kw, "tags": tags}
     if who:

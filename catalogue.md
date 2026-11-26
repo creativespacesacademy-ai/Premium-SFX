@@ -1,6 +1,6 @@
 # Katalog Premium SFX
 
-450 suara. Satu baris per suara. Dibuat otomatis oleh `tools/build_catalogue.py`; deskripsi berasal dari analisis audio, bukan dari mendengarkan.
+1038 suara. Satu baris per suara. Dibuat otomatis oleh `tools/build_catalogue.py`; deskripsi berasal dari analisis audio, bukan dari mendengarkan.
 
 Kolom: id | durasi aktif | puncak (sync.at) | bentuk | karakter | gain di bawah VO | catatan
 
@@ -414,6 +414,7 @@ Kolom: id | durasi aktif | puncak (sync.at) | bentuk | karakter | gain di bawah 
 
 ## Premium SFX/Notifications  (notification)
 
+- `notifications-1-1` | 0.71s | 0.12s | sustain | gelap, tonal | -16 dB | 
 - `notifications-001` | 0.75s | 1.40s | sustain | sedang | -10 dB | 
 - `notifications-002` | 0.49s | 0.14s | short | gelap, tonal | -14 dB | 
 - `notifications-003` | 0.47s | 0.43s | sequence | gelap, multi, tonal | -13 dB | 
@@ -486,7 +487,627 @@ Kolom: id | durasi aktif | puncak (sync.at) | bentuk | karakter | gain di bawah 
 - `notifications-070` | 0.76s | 0.04s | hit-decay | cerah | -14 dB | 
 - `notifications-071` | 0.92s | 0.04s | hit-decay | sedang | -20 dB | 
 - `notifications-072` | 0.96s | 0.05s | hit-decay | sedang | -19 dB | 
+- `notifications-073` | 0.34s | 0.07s | short | sedang | -18 dB | 
+- `notifications-074` | 0.64s | 0.05s | hit-decay | sedang | -15 dB | 
+- `notifications-075` | 0.47s | 0.15s | short | cerah | -20 dB | 
+- `notifications-076` | 0.30s | 0.11s | short | cerah | -11 dB | 
+- `notifications-077` | 0.34s | 0.11s | short | sedang | -18 dB | 
+- `notifications-078` | 0.42s | 0.20s | sequence | multi, sedang, tonal | -19 dB | 
+- `notifications-079` | 0.24s | 0.18s | short | sedang, tonal | -18 dB | 
+- `notifications-080` | 0.29s | 0.06s | short | sedang | -17 dB | 
+- `notifications-081` | 1.70s | 0.04s | hit-decay | cerah | -17 dB | 
+- `notifications-082` | 0.68s | 0.04s | hit-decay | sedang | -17 dB | 
+- `notifications-083` | 0.25s | 0.21s | short | cerah | -22 dB | 
+- `notifications-084` | 0.24s | 0.13s | short | sedang | -21 dB | 
+- `notifications-085` | 0.57s | 0.49s | short | sedang, tonal | -23 dB | 
+- `notifications-086` | 0.37s | 0.04s | short | sedang | -20 dB | 
+- `notifications-087` | 0.91s | 0.18s | sustain | sedang | -17 dB | 
+- `notifications-088` | 0.57s | 0.04s | hit-decay | sedang, tonal | -16 dB | 
+- `notifications-089` | 0.96s | 0.18s | sustain | gelap, tonal | -20 dB | 
+- `notifications-090` | 0.54s | 0.44s | short | sedang | -19 dB | 
+- `notifications-091` | 0.71s | 0.18s | sustain | cerah | -17 dB | 
+- `notifications-092` | 0.96s | 0.12s | sustain | sedang | -16 dB | 
+- `notifications-093` | 0.81s | 0.14s | sustain | sedang | -21 dB | 
+- `notifications-094` | 0.52s | 0.19s | short | sedang | -20 dB | 
+- `notifications-095` | 0.97s | 0.29s | sequence | multi, sedang | -14 dB | 
+- `notifications-096` | 0.41s | 0.08s | short | cerah | -14 dB | 
+- `notifications-097` | 0.40s | 0.12s | short | sedang | -18 dB | 
+- `notifications-098` | 0.62s | 0.05s | hit-decay | cerah | -17 dB | 
+- `notifications-099` | 0.31s | 0.03s | short | sedang | -18 dB | 
+- `notifications-100` | 0.90s | 0.08s | sustain | sedang | -16 dB | 
+- `notifications-101` | 0.92s | 0.20s | sustain | sedang | -15 dB | 
+- `notifications-102` | 0.86s | 0.13s | sustain | sedang | -14 dB | 
+- `notifications-103` | 0.95s | 0.21s | sustain | sedang | -14 dB | 
+- `notifications-104` | 1.01s | 0.34s | sustain | sedang | -14 dB | 
+- `notifications-105` | 0.77s | 0.14s | sustain | cerah | -20 dB | 
+- `notifications-106` | 0.96s | 0.17s | sustain | sedang | -12 dB | 
+- `notifications-107` | 0.90s | 0.10s | sustain | cerah | -13 dB | 
+- `notifications-108` | 0.39s | 0.18s | short | sedang | -20 dB | 
+- `notifications-109` | 0.57s | 0.37s | short | sedang | -17 dB | 
+- `notifications-110` | 0.72s | 0.21s | sustain | sedang | -18 dB | 
+- `notifications-111` | 1.31s | 0.15s | sustain | gelap, tonal | -20 dB | 
+- `notifications-112` | 0.97s | 0.04s | hit-decay | sedang | -17 dB | 
+- `notifications-113` | 1.64s | 0.28s | sustain | sedang | -15 dB | 
+- `notifications-114` | 0.80s | 0.24s | sustain | cerah | -14 dB | 
+- `notifications-115` | 1.27s | 0.03s | hit-decay | sedang | -16 dB | 
+- `notifications-116` | 1.25s | 0.51s | sustain | sedang | -17 dB | 
+- `notifications-117` | 1.10s | 0.22s | sustain | sedang | -16 dB | 
+- `notifications-118` | 0.35s | 0.19s | short | gelap, tonal | -20 dB | 
+- `notifications-119` | 0.47s | 0.03s | hit-decay | sedang, tonal | -20 dB | 
+- `notifications-120` | 0.91s | 0.21s | sustain | sedang | -16 dB | 
+- `notifications-121` | 0.57s | 0.15s | short | cerah | -15 dB | 
+- `notifications-122` | 1.55s | 0.03s | hit-decay | sedang | -12 dB | 
+- `notifications-123` | 0.26s | 0.18s | short | cerah | -11 dB | 
+- `notifications-124` | 0.71s | 0.04s | hit-decay | sedang | -12 dB | 
+- `notifications-125` | 2.00s | 0.05s | hit-decay | sedang, tonal | -20 dB | 
+- `notifications-126` | 0.47s | 0.10s | short | sedang | -20 dB | 
+- `notifications-127` | 0.91s | 0.12s | sustain | sedang | -22 dB | 
+- `notifications-128` | 0.55s | 0.22s | short | sedang | -17 dB | 
+- `notifications-129` | 0.57s | 0.08s | short | sedang | -16 dB | 
+- `notifications-130` | 0.41s | 0.19s | short | sedang | -17 dB | 
+- `notifications-131` | 0.18s | 0.03s | short | sedang, tonal | -19 dB | 
+- `notifications-132` | 0.39s | 0.05s | short | cerah | -4 dB | 
+- `notifications-133` | 0.60s | 0.05s | hit-decay | cerah | -20 dB | 
+- `notifications-134` | 0.76s | 0.31s | sustain | sedang | -16 dB | 
+- `notifications-135` | 0.62s | 0.08s | sustain | sedang | -16 dB | 
+- `notifications-136` | 0.91s | 0.16s | sequence | multi, sedang, tonal | -20 dB | 
+- `notifications-137` | 0.44s | 0.09s | short | sedang | -17 dB | 
+- `notifications-138` | 0.86s | 0.11s | sustain | gelap | -14 dB | 
+- `notifications-139` | 0.25s | 0.03s | short | sedang | -16 dB | 
+- `notifications-140` | 1.34s | 0.33s | sustain | sedang | -17 dB | 
+- `notifications-141` | 1.34s | 0.33s | sustain | sedang | -17 dB | duplikat dari notifications-140
+- `notifications-142` | 0.07s | 0.07s | tick | sedang | -15 dB | 
+- `notifications-143` | 0.71s | 0.05s | sustain | sedang | -14 dB | 
+- `notifications-144` | 0.61s | 0.16s | sustain | sedang | -16 dB | 
+- `notifications-145` | 0.96s | 0.22s | sustain | sedang | -18 dB | 
+- `notifications-146` | 0.30s | 0.17s | short | sedang, tonal | -19 dB | 
+- `notifications-147` | 0.91s | 0.16s | sequence | multi, sedang, tonal | -20 dB | duplikat dari notifications-136
+- `notifications-148` | 0.86s | 0.32s | sustain | cerah, tonal | -19 dB | 
+- `notifications-149` | 0.84s | 0.15s | sustain | sedang, tonal | -16 dB | duplikat dari notifications-043
+- `notifications-150` | 0.68s | 0.21s | sustain | sedang, tonal | -17 dB | 
+- `notifications-151` | 0.57s | 0.04s | hit-decay | sedang, tonal | -16 dB | 
+- `notifications-152` | 1.00s | 0.36s | sustain | sedang, tonal | -22 dB | 
+- `notifications-153` | 0.64s | 0.24s | sustain | sedang, tonal | -17 dB | 
+- `notifications-154` | 0.75s | 0.21s | sustain | sedang, tonal | -18 dB | 
+- `notifications-155` | 0.40s | 0.12s | short | sedang | -18 dB | 
+- `notifications-156` | 0.95s | 0.18s | sustain | sedang, tonal | -17 dB | 
+- `notifications-157` | 0.81s | 0.04s | hit-decay | sedang, tonal | -18 dB | 
+- `notifications-158` | 0.69s | 0.22s | sustain | sedang, tonal | -18 dB | 
+- `notifications-159` | 0.59s | 0.04s | hit-decay | sedang, tonal | -17 dB | 
+- `notifications-160` | 0.31s | 0.03s | short | cerah | -14 dB | 
+- `notifications-161` | 0.22s | 0.04s | short | cerah | -19 dB | 
+- `notifications-162` | 0.77s | 0.19s | sustain | sedang | -18 dB | 
+- `notifications-163` | 0.96s | 0.18s | sustain | gelap, tonal | -22 dB | 
+- `notifications-164` | 0.66s | 0.04s | hit-decay | sedang, tonal | -19 dB | 
+- `notifications-165` | 0.56s | 0.04s | hit-decay | sedang | -14 dB | 
+- `notifications-166` | 0.74s | 0.13s | sustain | sedang | -16 dB | 
+- `notifications-167` | 0.52s | 0.03s | hit-decay | sedang | -16 dB | 
+- `notifications-168` | 0.81s | 0.07s | sustain | sedang | -14 dB | 
+- `notifications-169` | 0.66s | 0.17s | sustain | sedang | -17 dB | 
+- `notifications-170` | 0.86s | 0.03s | hit-decay | sedang | -16 dB | 
+- `notifications-171` | 0.68s | 0.04s | hit-decay | sedang | -14 dB | 
+- `notifications-172` | 0.68s | 0.05s | hit-decay | gelap, tonal | -14 dB | 
+- `notifications-173` | 0.85s | 0.04s | hit-decay | sedang | -19 dB | 
+- `notifications-174` | 0.71s | 0.21s | sustain | sedang | -16 dB | 
+- `notifications-175` | 1.01s | 0.59s | sustain | cerah | -16 dB | 
+- `notifications-176` | 1.01s | 0.23s | sustain | sedang | -13 dB | 
+- `notifications-177` | 0.85s | 0.21s | sustain | sedang | -15 dB | 
+- `notifications-178` | 0.89s | 0.29s | sustain | sedang | -17 dB | 
+- `notifications-179` | 0.81s | 0.05s | hit-decay | sedang | -16 dB | 
+- `notifications-180` | 0.97s | 0.29s | sequence | multi, sedang | -14 dB | 
+- `notifications-181` | 0.92s | 0.05s | hit-decay | sedang | -14 dB | 
+- `notifications-182` | 0.97s | 0.30s | sustain | sedang, tonal | -19 dB | 
+- `notifications-183` | 0.99s | 0.04s | hit-decay | sedang | -20 dB | 
+- `notifications-184` | 0.81s | 0.07s | sustain | sedang | -16 dB | 
+- `notifications-185` | 0.66s | 0.06s | hit-decay | sedang | -16 dB | 
+- `notifications-186` | 0.57s | 0.09s | short | sedang | -18 dB | 
+- `notifications-187` | 0.89s | 0.23s | sustain | gelap, tonal | -19 dB | 
+- `notifications-188` | 0.40s | 0.04s | short | sedang | -18 dB | 
+- `notifications-189` | 0.99s | 0.03s | hit-decay | sedang | -18 dB | 
+- `notifications-190` | 0.80s | 0.18s | sustain | sedang | -16 dB | 
+- `notifications-191` | 1.01s | 0.19s | sustain | sedang | -16 dB | 
+- `notifications-192` | 0.68s | 0.03s | hit-decay | cerah | -16 dB | 
+- `notifications-193` | 0.60s | 0.08s | short | sedang | -16 dB | 
+- `notifications-194` | 0.33s | 0.03s | short | sedang | -20 dB | 
+- `notifications-195` | 0.66s | 0.13s | sustain | sedang | -14 dB | 
+- `notifications-196` | 0.92s | 0.04s | hit-decay | sedang | -15 dB | 
+- `notifications-197` | 0.66s | 0.05s | hit-decay | sedang | -14 dB | 
+- `notifications-198` | 0.62s | 0.03s | hit-decay | sedang | -17 dB | 
+- `notifications-199` | 0.62s | 0.05s | hit-decay | sedang | -13 dB | 
+- `notifications-200` | 0.81s | 0.08s | sustain | sedang | -14 dB | 
+- `notifications-201` | 0.24s | 0.05s | short | sedang | -19 dB | 
+- `notifications-202` | 0.56s | 0.17s | short | sedang | -20 dB | 
+- `notifications-203` | 0.85s | 0.14s | sustain | sedang | -16 dB | 
+- `notifications-204` | 0.39s | 0.06s | short | gelap, tonal | -21 dB | 
+- `notifications-205` | 0.77s | 0.03s | hit-decay | gelap, tonal | -17 dB | 
+- `notifications-206` | 0.81s | 0.04s | hit-decay | gelap, tonal | -16 dB | 
+- `notifications-207` | 0.60s | 0.10s | short | sedang | -17 dB | 
+- `notifications-208` | 0.82s | 0.04s | hit-decay | gelap | -22 dB | 
+- `notifications-209` | 0.29s | 0.07s | short | sedang | -18 dB | 
+- `notifications-210` | 0.69s | 0.07s | sustain | sedang | -17 dB | 
+- `notifications-211` | 0.72s | 0.11s | sustain | sedang | -17 dB | duplikat dari notifications-060
+- `notifications-212` | 0.66s | 0.08s | sustain | sedang | -18 dB | 
+- `notifications-213` | 0.49s | 0.05s | hit-decay | gelap, tonal | -15 dB | 
+- `notifications-214` | 0.69s | 0.44s | sustain | sedang | -16 dB | 
+- `notifications-215` | 0.71s | 0.04s | hit-decay | sedang | -17 dB | 
+- `notifications-216` | 0.66s | 0.18s | sustain | cerah | -16 dB | 
+- `notifications-217` | 0.69s | 0.18s | sustain | sedang | -16 dB | 
+- `notifications-218` | 0.62s | 0.06s | hit-decay | gelap, tonal | -17 dB | 
+- `notifications-219` | 0.92s | 0.32s | sustain | sedang | -17 dB | 
+- `notifications-220` | 0.33s | 0.20s | short | sedang | -21 dB | 
+- `notifications-221` | 0.76s | 0.14s | sustain | gelap, tonal | -19 dB | 
+- `notifications-222` | 1.31s | 0.19s | sustain | sedang | -15 dB | 
+- `notifications-223` | 0.71s | 0.04s | hit-decay | sedang | -17 dB | 
+- `notifications-224` | 0.77s | 0.16s | sustain | gelap, tonal | -19 dB | 
+- `notifications-225` | 1.19s | 0.24s | sustain | gelap, tonal | -17 dB | duplikat dari notifications-035
+- `notifications-226` | 0.81s | 0.03s | hit-decay | cerah | -14 dB | 
+- `notifications-227` | 0.86s | 0.21s | sustain | sedang | -21 dB | 
+- `notifications-228` | 0.76s | 0.07s | sustain | sedang | -19 dB | 
+- `notifications-229` | 0.76s | 0.04s | hit-decay | cerah | -14 dB | duplikat dari notifications-070
+- `notifications-230` | 0.97s | 0.18s | sustain | sedang | -18 dB | 
+- `notifications-231` | 1.05s | 0.32s | sustain | sedang | -21 dB | 
+- `notifications-232` | 0.92s | 0.04s | hit-decay | sedang | -20 dB | duplikat dari notifications-071
+- `notifications-233` | 0.72s | 0.05s | hit-decay | sedang | -18 dB | 
+- `notifications-234` | 0.47s | 0.14s | short | sedang | -18 dB | 
+- `notifications-235` | 0.60s | 0.19s | short | sedang | -17 dB | 
+- `notifications-236` | 0.91s | 0.33s | sustain | cerah | -19 dB | 
+- `notifications-237` | 0.56s | 0.05s | hit-decay | sedang | -15 dB | 
+- `notifications-238` | 0.81s | 0.76s | sustain | sedang, tonal | -24 dB | 
+- `notifications-239` | 0.51s | 0.40s | short | gelap, tonal | -7 dB | 
+- `notifications-240` | 0.18s | 0.03s | short | gelap, tonal | -22 dB | 
+- `notifications-241` | 0.26s | 0.22s | short | sedang, tonal | -24 dB | 
+- `notifications-242` | 0.26s | 0.18s | short | cerah | -19 dB | 
+- `notifications-243` | 0.31s | 0.03s | short | cerah | -14 dB | duplikat dari notifications-160
+- `notifications-244` | 0.27s | 0.17s | short | sedang | -18 dB | 
+- `notifications-245` | 0.31s | 0.05s | short | sedang, tonal | -25 dB | 
+- `notifications-246` | 0.26s | 0.03s | short | gelap, tonal | -24 dB | 
+- `notifications-247` | 0.31s | 0.04s | short | sedang, tonal | -23 dB | 
+- `notifications-248` | 0.33s | 0.05s | short | sedang, tonal | -21 dB | 
+- `notifications-249` | 0.62s | 0.15s | sustain | sedang | -17 dB | 
+- `notifications-250` | 0.39s | 0.21s | short | sedang | -19 dB | 
+- `notifications-251` | 0.60s | 0.05s | hit-decay | sedang | -12 dB | 
+- `notifications-252` | 0.52s | 0.06s | hit-decay | sedang | -11 dB | 
+- `notifications-253` | 0.57s | 0.05s | hit-decay | sedang | -12 dB | 
+- `notifications-254` | 0.75s | 0.04s | hit-decay | cerah | -8 dB | 
+- `notifications-255` | 0.76s | 0.04s | hit-decay | cerah | -8 dB | 
+- `notifications-256` | 0.49s | 0.03s | hit-decay | cerah | -17 dB | 
+- `notifications-257` | 0.95s | 0.18s | sustain | cerah | -16 dB | 
+- `notifications-258` | 0.86s | 0.10s | sustain | sedang | -17 dB | 
+- `notifications-259` | 0.81s | 0.13s | sustain | sedang | -17 dB | 
+- `notifications-260` | 0.60s | 0.10s | short | sedang | -13 dB | 
+- `notifications-261` | 0.22s | 0.11s | short | gelap, tonal | -20 dB | 
+- `notifications-262` | 0.71s | 0.18s | sustain | cerah | -17 dB | duplikat dari notifications-091
+- `notifications-263` | 0.96s | 0.20s | sustain | sedang, tonal | -15 dB | 
+- `notifications-264` | 0.90s | 0.19s | sustain | sedang | -18 dB | 
+- `notifications-265` | 0.86s | 0.06s | hit-decay | sedang, tonal | -15 dB | 
+- `notifications-266` | 0.77s | 0.17s | sustain | gelap, tonal | -17 dB | 
+- `notifications-267` | 0.72s | 0.04s | hit-decay | cerah, tonal | -13 dB | 
+- `notifications-268` | 0.92s | 0.08s | sustain | sedang | -13 dB | 
+- `notifications-269` | 0.65s | 0.07s | sustain | sedang | -17 dB | 
+- `notifications-270` | 0.77s | 0.07s | sustain | sedang, tonal | -16 dB | 
+- `notifications-272` | 0.42s | 0.05s | hit-decay | gelap, tonal | -16 dB | 
+- `notifications-273` | 0.52s | 0.07s | short | sedang | -16 dB | 
+- `notifications-274` | 0.71s | 0.04s | hit-decay | cerah | -16 dB | 
+- `notifications-275` | 0.90s | 0.25s | sustain | sedang | -20 dB | 
+- `notifications-276` | 0.72s | 0.05s | hit-decay | sedang, tonal | -24 dB | 
+- `notifications-277` | 0.86s | 0.05s | hit-decay | gelap, tonal | -15 dB | 
+- `notifications-278` | 0.65s | 0.07s | sustain | gelap, tonal | -10 dB | 
+- `notifications-279` | 0.56s | 0.04s | hit-decay | sedang, tonal | -24 dB | 
+- `notifications-280` | 1.31s | 0.15s | sustain | gelap, tonal | -21 dB | 
+- `notifications-281` | 0.52s | 0.06s | hit-decay | sedang | -17 dB | 
+- `notifications-282` | 0.84s | 0.08s | sustain | sedang, tonal | -19 dB | 
+- `notifications-283` | 0.34s | 0.07s | short | sedang | -18 dB | duplikat dari notifications-073
+- `notifications-284` | 0.47s | 0.04s | hit-decay | sedang | -14 dB | 
+- `notifications-285` | 0.62s | 0.10s | sustain | sedang, tonal | -19 dB | 
+- `notifications-286` | 0.31s | 0.11s | short | cerah, tonal | -20 dB | 
+- `notifications-287` | 0.35s | 0.09s | short | sedang | -14 dB | 
+- `notifications-288` | 0.34s | 0.12s | short | gelap, tonal | -22 dB | 
+- `notifications-289` | 0.27s | 0.08s | short | cerah | -13 dB | 
+- `notifications-290` | 0.16s | 0.04s | short | gelap, tonal | -22 dB | 
+- `notifications-291` | 0.79s | 0.08s | sustain | gelap, tonal | -22 dB | 
+- `notifications-292` | 0.86s | 0.08s | sustain | cerah, tonal | -25 dB | 
+- `notifications-293` | 0.92s | 0.13s | sustain | sedang | -14 dB | 
+- `notifications-294` | 0.77s | 0.04s | hit-decay | gelap, tonal | -14 dB | 
+- `notifications-295` | 0.65s | 0.08s | sustain | gelap, tonal | -18 dB | 
+- `notifications-296` | 0.62s | 0.09s | sustain | sedang | -17 dB | 
+- `notifications-297` | 0.75s | 0.18s | sustain | sedang | -18 dB | 
+- `notifications-298` | 0.42s | 0.03s | hit-decay | sedang, tonal | -19 dB | 
+- `notifications-299` | 1.81s | 0.21s | sustain | sedang, tonal | -12 dB | 
+- `notifications-300` | 0.62s | 0.28s | sustain | sedang, tonal | -20 dB | 
+- `notifications-301` | 0.76s | 0.06s | hit-decay | sedang, tonal | -16 dB | 
+- `notifications-302` | 0.82s | 0.09s | hit-decay | gelap, tonal | -18 dB | 
 
 ## Premium SFX/Paper Sound Effects  (paper)
 
+- `paper-sound-effects-002` | 15.49s | 12.27s | sequence | cerah, multi | -4 dB | 
+- `paper-sound-effects-003` | 1.45s | 0.10s | sequence | multi, sedang | +11 dB | 
+- `paper-sound-effects-005` | 8.36s | 2.19s | sequence | cerah, multi | -5 dB | 
+- `paper-sound-effects-006` | 0.74s | 0.11s | sustain | cerah | -13 dB | 
+- `paper-sound-effects-007` | 0.37s | 0.14s | short | cerah | +2 dB | 
+- `paper-sound-effects-008` | 6.25s | 1.09s | sequence | multi, sedang | -5 dB | 
+- `paper-sound-effects-009` | 0.46s | 0.35s | short | sedang | -6 dB | 
+- `paper-sound-effects-010` | 0.74s | 0.51s | sustain | cerah | -4 dB | 
+- `paper-sound-effects-011` | 0.74s | 0.51s | sustain | cerah | -4 dB | duplikat dari paper-sound-effects-010
+- `paper-sound-effects-012` | 2.80s | 1.13s | sequence | cerah, multi | -11 dB | 
+- `paper-sound-effects-013` | 2.80s | 1.13s | sequence | cerah, multi | -11 dB | duplikat dari paper-sound-effects-012
+- `paper-sound-effects-014` | 3.56s | 2.40s | sequence | multi, sedang | +1 dB | 
+- `paper-sound-effects-015` | 3.56s | 2.40s | sequence | multi, sedang | +1 dB | duplikat dari paper-sound-effects-014
+- `paper-sound-effects-016` | 0.50s | 0.20s | short | cerah | -0 dB | 
+- `paper-sound-effects-017` | 0.50s | 0.20s | short | cerah | -0 dB | duplikat dari paper-sound-effects-016
 - `paper-sound-effects-018` | 0.62s | 0.34s | sustain | cerah | -4 dB | video
+- `paper-sound-effects-019` | 0.61s | 0.13s | sustain | cerah | -5 dB | 
+- `paper-sound-effects-020` | 8.77s | 7.38s | sequence | cerah, multi | -2 dB | 
+- `paper-sound-effects-021` | 8.77s | 7.38s | sequence | cerah, multi | -2 dB | duplikat dari paper-sound-effects-020
+- `paper-sound-effects-022` | 57.24s | 21.76s | sequence | cerah, multi | -6 dB | 
+- `paper-sound-effects-023` | 57.24s | 21.76s | sequence | cerah, multi | -6 dB | duplikat dari paper-sound-effects-022
+- `paper-sound-effects-024` | 7.02s | 2.25s | sequence | cerah, multi | -5 dB | 
+- `paper-sound-effects-025` | 54.23s | 17.99s | sequence | multi, sedang | -0 dB | 
+- `paper-sound-effects-026` | 1.93s | 1.66s | sustain | cerah | -4 dB | 
+- `paper-sound-effects-027` | 1.93s | 1.66s | sustain | cerah | -4 dB | duplikat dari paper-sound-effects-026
+- `paper-sound-effects-028` | 3.98s | 1.15s | sequence | cerah, multi | +3 dB | 
+- `paper-sound-effects-029` | 3.98s | 1.15s | sequence | cerah, multi | +3 dB | duplikat dari paper-sound-effects-028
+- `paper-sound-effects-030` | 0.77s | 0.62s | sustain | cerah | -12 dB | 
+
+## Premium SFX/Phone  (phone)
+
+- `phone-001` | 1.94s | 1.16s | sequence | gelap, multi, tonal | -15 dB | 
+
+## Premium SFX/Risers  (riser)
+
+- `risers-001` | 5.66s | 5.54s | rise | bass, sedang | -5 dB | 
+- `risers-002` | 3.82s | 3.19s | rise | bass, gelap | -13 dB | 
+- `risers-003` | 5.83s | 5.90s | rise | bass, sedang | -13 dB | 
+- `risers-004` | 8.51s | 6.67s | rise | bass, gelap, tonal | -8 dB | 
+- `risers-005` | 13.31s | 11.88s | rise | sedang | -4 dB | 
+- `risers-006` | 4.40s | 6.21s | rise | bass, gelap | -16 dB | 
+- `risers-007` | 9.81s | 9.47s | rise | sedang | -5 dB | 
+- `risers-008` | 17.80s | 13.32s | rise | sedang | -11 dB | 
+- `risers-009` | 6.60s | 7.98s | rise | gelap, tonal | -7 dB | 
+- `risers-010` | 15.30s | 14.45s | rise | gelap, tonal | -6 dB | 
+- `risers-011` | 14.20s | 12.80s | rise | gelap, tonal | +1 dB | 
+- `risers-012` | 7.90s | 0.89s | sequence | bass, multi, sedang | -1 dB | 
+- `risers-013` | 1.01s | 0.41s | sustain | bass, sedang | -6 dB | 
+- `risers-014` | 0.37s | 0.13s | short | cerah | +7 dB | 
+- `risers-015` | 1.84s | 1.71s | rise | sedang | +3 dB | 
+- `risers-017` | 4.81s | 5.09s | sequence | cerah, multi | -13 dB | 
+- `risers-018` | 1.70s | 3.00s | rise | bass, sedang | -5 dB | 
+- `risers-019` | 1.19s | 1.22s | rise | bass, gelap, tonal | -13 dB | 
+- `risers-020` | 3.07s | 2.53s | rise | sedang | -3 dB | 
+- `risers-021` | 3.38s | 3.22s | rise | gelap, tonal | -8 dB | 
+- `risers-022` | 2.94s | 2.06s | rise | cerah | -3 dB | 
+- `risers-023` | 2.15s | 2.27s | rise | bass, sedang | -4 dB | 
+- `risers-024` | 2.29s | 2.19s | rise | gelap, tonal | -7 dB | 
+- `risers-025` | 0.99s | 1.74s | rise | sedang, tonal | -10 dB | 
+
+## Premium SFX/Swoosh  (whoosh)
+
+- `swoosh-001` | 0.49s | 0.33s | short | sedang | -10 dB | 
+- `swoosh-002` | 1.60s | 0.45s | sustain | bass, gelap, tonal | -11 dB | 
+- `swoosh-003` | 0.24s | 0.09s | short | sedang | -0 dB | 
+- `swoosh-004` | 1.16s | 0.44s | sustain | bass, gelap | -12 dB | 
+- `swoosh-005` | 1.34s | 0.27s | sustain | sedang | -3 dB | 
+- `swoosh-006` | 0.96s | 0.35s | sustain | sedang | -7 dB | 
+- `swoosh-007` | 2.45s | 1.17s | sustain | bass, gelap | -7 dB | 
+- `swoosh-008` | 0.59s | 0.13s | short | bass, gelap, tonal | -4 dB | 
+- `swoosh-009` | 0.39s | 0.26s | short | sedang | -7 dB | 
+- `swoosh-010` | 2.54s | 1.98s | sequence | bass, gelap, multi, tonal | -18 dB | 
+- `swoosh-011` | 3.16s | 2.95s | sequence | bass, gelap, multi, tonal | -17 dB | 
+- `swoosh-012` | 0.77s | 0.38s | sustain | gelap, tonal | -8 dB | 
+- `swoosh-013` | 2.40s | 0.71s | sustain | sedang | -10 dB | 
+- `swoosh-014` | 1.32s | 0.63s | sustain | gelap, tonal | -9 dB | 
+- `swoosh-015` | 2.31s | 0.70s | sustain | sedang | -7 dB | 
+- `swoosh-016` | 1.05s | 0.41s | sustain | gelap | -8 dB | 
+- `swoosh-017` | 1.16s | 0.17s | sustain | cerah | -8 dB | 
+- `swoosh-018` | 0.46s | 0.34s | sequence | gelap, multi | -8 dB | 
+- `swoosh-019` | 0.46s | 0.08s | sequence | gelap, multi | -8 dB | 
+- `swoosh-020` | 0.36s | 0.16s | short | gelap | -8 dB | 
+- `swoosh-021` | 0.42s | 0.31s | short | cerah | -8 dB | 
+- `swoosh-022` | 0.15s | 0.14s | tick | bass, gelap | -10 dB | 
+- `swoosh-023` | 0.33s | 0.10s | short | bass, gelap | -10 dB | 
+- `swoosh-024` | 1.31s | 0.29s | sustain | gelap, tonal | -13 dB | 
+- `swoosh-025` | 1.70s | 1.18s | sequence | bass, gelap, multi | -17 dB | 
+- `swoosh-026` | 1.70s | 1.18s | sequence | bass, gelap, multi | -17 dB | duplikat dari swoosh-025
+- `swoosh-027` | 0.96s | 0.53s | rise | sedang | -8 dB | 
+- `swoosh-028` | 0.49s | 0.19s | short | sedang | -8 dB | 
+- `swoosh-029` | 0.21s | 0.12s | short | sedang | +7 dB | 
+- `swoosh-030` | 0.25s | 0.16s | short | sedang | +2 dB | 
+- `swoosh-031` | 0.18s | 0.11s | short | sedang | +9 dB | 
+- `swoosh-032` | 4.22s | 0.76s | sequence | bass, gelap, multi, tonal | -5 dB | 
+- `swoosh-033` | 1.41s | 0.59s | sustain | bass, sedang | -13 dB | 
+- `swoosh-034` | 0.42s | 0.07s | short | sedang | -6 dB | 
+
+## Premium SFX/Transition Sound Effects  (transition)
+
+- `transition-sound-effects-001` | 0.35s | 0.11s | short | cerah | -2 dB | 
+- `transition-sound-effects-002` | 0.69s | 0.03s | hit-decay | sedang | -8 dB | 
+- `transition-sound-effects-003` | 2.16s | 0.52s | sequence | cerah, multi | +10 dB | 
+- `transition-sound-effects-004` | 0.20s | 0.09s | short | sedang | -3 dB | 
+- `transition-sound-effects-005` | 0.30s | 0.02s | short | sedang | -5 dB | 
+- `transition-sound-effects-006` | 1.31s | 0.35s | sustain | sedang | +7 dB | 
+- `transition-sound-effects-007` | 0.40s | 0.50s | short | gelap, tonal | -7 dB | 
+- `transition-sound-effects-008` | 0.42s | 0.24s | short | bass, sedang | -11 dB | 
+- `transition-sound-effects-009` | 0.84s | 0.18s | sustain | cerah | -10 dB | 
+- `transition-sound-effects-010` | 8.46s | 3.22s | sustain | sedang | +7 dB | 
+- `transition-sound-effects-011` | 13.22s | 5.46s | sustain | cerah | +5 dB | 
+- `transition-sound-effects-012` | 7.94s | 0.26s | sequence | multi, sedang | +8 dB | 
+- `transition-sound-effects-013` | 1.55s | 1.20s | sustain | cerah | -4 dB | 
+- `transition-sound-effects-014` | 0.52s | 0.31s | short | cerah | -11 dB | 
+- `transition-sound-effects-015` | 0.16s | 0.07s | short | gelap | -15 dB | 
+- `transition-sound-effects-016` | 0.14s | 0.06s | tick | sedang | -12 dB | 
+- `transition-sound-effects-017` | 1.95s | 0.36s | sequence | cerah, multi | +9 dB | 
+- `transition-sound-effects-018` | 2.42s | 1.72s | sustain | sedang | -14 dB | 
+- `transition-sound-effects-019` | 3.99s | 0.20s | sequence | bass, gelap, multi, tonal | -13 dB | 
+- `transition-sound-effects-020` | 3.52s | 0.17s | sustain | sedang | +2 dB | 
+- `transition-sound-effects-021` | 3.07s | 1.01s | sequence | cerah, multi | -0 dB | 
+- `transition-sound-effects-022` | 0.56s | 0.17s | hit-decay | cerah | +0 dB | 
+- `transition-sound-effects-023` | 1.68s | 0.22s | hit-decay | sedang | -8 dB | 
+- `transition-sound-effects-024` | 0.87s | 0.13s | hit-decay | cerah | -1 dB | 
+- `transition-sound-effects-025` | 1.95s | 0.19s | hit-decay | sedang | +4 dB | 
+- `transition-sound-effects-026` | 1.11s | 0.18s | hit-decay | sedang | +0 dB | 
+- `transition-sound-effects-027` | 1.24s | 0.20s | hit-decay | sedang | +6 dB | 
+- `transition-sound-effects-028` | 0.10s | 0.08s | tick | bass, gelap | -16 dB | 
+- `transition-sound-effects-029` | 0.84s | 0.59s | rise | sedang | -9 dB | 
+- `transition-sound-effects-030` | 2.00s | 0.87s | sustain | cerah | -13 dB | 
+- `transition-sound-effects-031` | 1.21s | 1.11s | rise | sedang | -12 dB | 
+- `transition-sound-effects-032` | 10.64s | 1.38s | sequence | multi, sedang | -8 dB | 
+- `transition-sound-effects-033` | 2.29s | 0.74s | sustain | sedang | -14 dB | 
+- `transition-sound-effects-034` | 2.50s | 0.40s | sustain | sedang | -19 dB | 
+- `transition-sound-effects-035` | 1.14s | 0.40s | sustain | sedang | -13 dB | 
+- `transition-sound-effects-036` | 1.71s | 0.36s | sustain | sedang | -11 dB | 
+- `transition-sound-effects-037` | 1.49s | 0.98s | sustain | cerah | -13 dB | 
+- `transition-sound-effects-038` | 1.44s | 0.15s | sustain | sedang | -14 dB | 
+- `transition-sound-effects-039` | 2.80s | 0.83s | sustain | bass, sedang | -10 dB | 
+- `transition-sound-effects-040` | 4.56s | 1.12s | sustain | bass, gelap, tonal | -10 dB | 
+- `transition-sound-effects-041` | 3.19s | 1.10s | sustain | cerah | -13 dB | 
+- `transition-sound-effects-042` | 3.71s | 1.80s | sustain | sedang | -10 dB | 
+- `transition-sound-effects-043` | 1.72s | 0.43s | sustain | sedang | -15 dB | 
+- `transition-sound-effects-044` | 0.91s | 0.45s | sustain | gelap | -14 dB | 
+- `transition-sound-effects-045` | 0.64s | 0.25s | sustain | sedang | -14 dB | 
+- `transition-sound-effects-046` | 1.65s | 0.64s | sustain | cerah | -12 dB | 
+- `transition-sound-effects-047` | 1.00s | 0.33s | sustain | gelap | -14 dB | 
+- `transition-sound-effects-048` | 1.22s | 0.25s | sustain | sedang | -16 dB | 
+- `transition-sound-effects-049` | 1.65s | 0.63s | sustain | gelap | -14 dB | 
+- `transition-sound-effects-050` | 3.33s | 0.33s | sustain | cerah | -15 dB | 
+- `transition-sound-effects-051` | 1.40s | 1.04s | rise | sedang | -14 dB | 
+- `transition-sound-effects-052` | 2.60s | 0.63s | sustain | bass, gelap, tonal | -9 dB | 
+- `transition-sound-effects-053` | 5.85s | 1.18s | sustain | sedang | -9 dB | 
+- `transition-sound-effects-054` | 3.95s | 1.45s | sustain | sedang | -14 dB | 
+- `transition-sound-effects-055` | 3.98s | 0.97s | sustain | bass, sedang | -14 dB | 
+- `transition-sound-effects-056` | 0.91s | 0.15s | sustain | cerah | -16 dB | 
+- `transition-sound-effects-057` | 0.79s | 0.20s | sustain | gelap | -18 dB | 
+- `transition-sound-effects-058` | 1.94s | 0.88s | sustain | cerah | -12 dB | 
+- `transition-sound-effects-059` | 2.10s | 0.57s | sustain | sedang, tonal | -11 dB | 
+- `transition-sound-effects-060` | 2.41s | 0.62s | sustain | sedang | -16 dB | 
+- `transition-sound-effects-061` | 1.85s | 0.44s | sustain | sedang | -15 dB | 
+- `transition-sound-effects-062` | 1.46s | 0.28s | sustain | sedang | -12 dB | 
+- `transition-sound-effects-063` | 2.20s | 0.67s | sustain | sedang | -14 dB | 
+- `transition-sound-effects-064` | 6.31s | 2.27s | sustain | sedang | -14 dB | 
+- `transition-sound-effects-065` | 2.10s | 0.50s | sustain | sedang | -15 dB | 
+- `transition-sound-effects-066` | 3.90s | 1.13s | sustain | gelap, tonal | -11 dB | 
+- `transition-sound-effects-067` | 2.05s | 2.02s | rise | bass, gelap, tonal | -12 dB | 
+- `transition-sound-effects-068` | 1.61s | 0.33s | sustain | cerah | -15 dB | 
+- `transition-sound-effects-069` | 2.84s | 0.29s | sustain | gelap | -13 dB | 
+- `transition-sound-effects-070` | 3.14s | 1.50s | sustain | cerah | -16 dB | 
+- `transition-sound-effects-071` | 0.85s | 0.35s | sustain | cerah | -14 dB | 
+- `transition-sound-effects-072` | 1.72s | 0.21s | sustain | cerah | -16 dB | 
+- `transition-sound-effects-073` | 1.89s | 0.26s | sustain | cerah | -13 dB | 
+- `transition-sound-effects-074` | 1.72s | 0.21s | sustain | cerah | -4 dB | 
+- `transition-sound-effects-075` | 1.79s | 0.67s | sustain | cerah | -16 dB | 
+- `transition-sound-effects-076` | 1.60s | 0.27s | sustain | gelap, tonal | -13 dB | 
+- `transition-sound-effects-077` | 4.25s | 1.31s | sustain | gelap, tonal | -15 dB | 
+- `transition-sound-effects-078` | 2.27s | 1.21s | sustain | cerah | -16 dB | 
+- `transition-sound-effects-079` | 1.96s | 0.57s | sustain | cerah | -20 dB | 
+- `transition-sound-effects-080` | 3.24s | 2.78s | sustain | cerah | -6 dB | 
+- `transition-sound-effects-081` | 2.42s | 0.49s | sustain | cerah | -13 dB | 
+- `transition-sound-effects-082` | 2.21s | 1.33s | rise | bass, sedang | -3 dB | 
+- `transition-sound-effects-083` | 0.25s | 0.07s | short | cerah | -9 dB | 
+- `transition-sound-effects-084` | 0.86s | 0.13s | sustain | sedang | +10 dB | 
+- `transition-sound-effects-085` | 3.76s | 0.47s | sustain | bass, sedang | +5 dB | 
+- `transition-sound-effects-086` | 4.77s | 2.04s | sequence | gelap, multi, tonal | -1 dB | 
+- `transition-sound-effects-087` | 8.82s | 3.32s | sustain | cerah | +2 dB | 
+- `transition-sound-effects-088` | 1.46s | 0.68s | sustain | cerah | +2 dB | 
+- `transition-sound-effects-089` | 1.51s | 0.48s | sustain | cerah | -4 dB | 
+- `transition-sound-effects-090` | 3.10s | 0.85s | sustain | bass, sedang | +3 dB | 
+- `transition-sound-effects-091` | 2.24s | 0.50s | sustain | sedang | +1 dB | 
+- `transition-sound-effects-092` | 2.45s | 0.47s | sustain | cerah | -11 dB | 
+- `transition-sound-effects-093` | 7.14s | 1.58s | sustain | sedang | -15 dB | 
+- `transition-sound-effects-094` | 3.77s | 1.17s | sustain | cerah | -8 dB | 
+- `transition-sound-effects-095` | 0.71s | 0.07s | sustain | cerah | -10 dB | 
+- `transition-sound-effects-096` | 2.70s | 0.41s | sustain | sedang | -13 dB | 
+- `transition-sound-effects-097` | 1.26s | 0.29s | sustain | gelap, tonal | -14 dB | 
+- `transition-sound-effects-098` | 4.76s | 1.03s | sustain | sedang | -12 dB | 
+- `transition-sound-effects-099` | 0.37s | 0.17s | short | cerah | -7 dB | 
+- `transition-sound-effects-100` | 5.65s | 1.45s | sustain | sedang | -10 dB | 
+- `transition-sound-effects-101` | 2.82s | 0.92s | sustain | sedang | -17 dB | 
+- `transition-sound-effects-102` | 1.89s | 0.94s | sustain | sedang | -15 dB | 
+- `transition-sound-effects-103` | 1.95s | 0.90s | sustain | cerah | -11 dB | 
+- `transition-sound-effects-104` | 7.34s | 0.08s | sequence | cerah, multi | -1 dB | 
+- `transition-sound-effects-105` | 2.75s | 2.38s | rise | cerah | +1 dB | 
+- `transition-sound-effects-106` | 3.24s | 0.40s | sustain | sedang | -6 dB | 
+- `transition-sound-effects-107` | 2.87s | 1.27s | sustain | sedang, tonal | -15 dB | 
+- `transition-sound-effects-108` | 2.51s | 0.33s | sustain | sedang | -15 dB | 
+- `transition-sound-effects-109` | 8.10s | 2.10s | sustain | gelap | -17 dB | 
+- `transition-sound-effects-110` | 3.10s | 0.85s | sustain | bass, sedang | +3 dB | duplikat dari transition-sound-effects-090
+- `transition-sound-effects-111` | 4.27s | 2.96s | sequence | multi, sedang | -2 dB | 
+- `transition-sound-effects-112` | 0.33s | 0.13s | short | sedang | +5 dB | 
+- `transition-sound-effects-113` | 5.64s | 5.54s | sustain | cerah | +12 dB | 
+- `transition-sound-effects-114` | 5.81s | 3.40s | sequence | multi, sedang | +10 dB | 
+- `transition-sound-effects-115` | 0.80s | 0.18s | sequence | bass, multi, sedang | +9 dB | 
+- `transition-sound-effects-116` | 0.07s | 0.05s | tick | bass, gelap | -19 dB | 
+- `transition-sound-effects-117` | 0.47s | 0.48s | short | sedang | +0 dB | 
+- `transition-sound-effects-118` | 0.18s | 0.18s | short | gelap | -5 dB | 
+- `transition-sound-effects-119` | 1.93s | 0.48s | sustain | sedang | -13 dB | 
+- `transition-sound-effects-120` | 6.10s | 1.05s | sustain | bass, gelap, tonal | -9 dB | 
+- `transition-sound-effects-121` | 2.90s | 1.19s | sustain | cerah | -10 dB | 
+- `transition-sound-effects-122` | 1.36s | 0.26s | sustain | sedang | -13 dB | 
+- `transition-sound-effects-123` | 1.82s | 0.19s | sustain | cerah | -15 dB | 
+- `transition-sound-effects-124` | 2.10s | 0.54s | sustain | sedang | -15 dB | 
+- `transition-sound-effects-125` | 2.99s | 1.15s | sustain | sedang | -12 dB | 
+- `transition-sound-effects-126` | 0.84s | 0.18s | sustain | cerah | -10 dB | duplikat dari transition-sound-effects-009
+- `transition-sound-effects-127` | 7.94s | 0.26s | sequence | multi, sedang | +8 dB | duplikat dari transition-sound-effects-012
+- `transition-sound-effects-128` | 1.60s | 0.05s | hit-decay | sedang | -3 dB | 
+- `transition-sound-effects-129` | 0.36s | 0.20s | short | bass, gelap | -11 dB | 
+- `transition-sound-effects-130` | 0.84s | 0.59s | rise | sedang | -9 dB | duplikat dari transition-sound-effects-029
+- `transition-sound-effects-131` | 0.30s | 0.02s | short | sedang | -5 dB | duplikat dari transition-sound-effects-005
+- `transition-sound-effects-132` | 2.87s | 1.27s | sustain | sedang, tonal | -15 dB | duplikat dari transition-sound-effects-107
+- `transition-sound-effects-133` | 0.52s | 0.31s | short | cerah | -11 dB | duplikat dari transition-sound-effects-014
+- `transition-sound-effects-134` | 0.95s | 0.10s | sequence | multi, sedang | -4 dB | 
+- `transition-sound-effects-135` | 0.80s | 0.44s | sequence | multi, sedang | -5 dB | 
+- `transition-sound-effects-136` | 0.15s | 0.09s | short | cerah | -9 dB | 
+- `transition-sound-effects-137` | 0.15s | 0.07s | short | sedang | -11 dB | 
+- `transition-sound-effects-138` | 0.30s | 0.08s | short | sedang | -11 dB | 
+- `transition-sound-effects-139` | 0.27s | 0.11s | short | gelap | -12 dB | 
+- `transition-sound-effects-140` | 0.27s | 0.08s | short | sedang | -5 dB | 
+- `transition-sound-effects-141` | 0.36s | 0.10s | short | sedang | -10 dB | 
+- `transition-sound-effects-142` | 0.25s | 0.10s | short | sedang | -8 dB | 
+
+## Premium SFX/Ui Sound  (ui)
+
+- `ui-sound-002` | 2.05s | 0.07s | sustain | sedang | -8 dB | 
+- `ui-sound-003` | 2.02s | 0.24s | sustain | sedang | -7 dB | 
+- `ui-sound-004` | 2.04s | 0.23s | sustain | sedang | -5 dB | 
+- `ui-sound-005` | 2.25s | 0.26s | sustain | sedang | -6 dB | 
+- `ui-sound-006` | 0.50s | 0.07s | short | sedang | -17 dB | 
+- `ui-sound-007` | 0.12s | 0.09s | tick | cerah | -17 dB | 
+- `ui-sound-008` | 1.01s | 0.84s | sustain | cerah, tonal | -14 dB | 
+- `ui-sound-009` | 0.92s | 1.53s | hit-decay | gelap, tonal | -18 dB | 
+- `ui-sound-010` | 0.69s | 0.99s | hit-decay | gelap, tonal | -18 dB | 
+- `ui-sound-013` | 0.12s | 0.06s | tick | gelap, tonal | -20 dB | 
+- `ui-sound-014` | 0.65s | 0.14s | sustain | cerah | -7 dB | 
+- `ui-sound-015` | 0.86s | 0.06s | sustain | cerah | -4 dB | 
+- `ui-sound-016` | 0.66s | 0.15s | hit-decay | cerah | -12 dB | duplikat dari digital-020
+- `ui-sound-017` | 0.94s | 0.20s | sequence | cerah, multi | -4 dB | 
+- `ui-sound-018` | 0.16s | 0.08s | short | cerah | -10 dB | 
+- `ui-sound-019` | 0.46s | 0.10s | short | cerah | -5 dB | 
+- `ui-sound-020` | 0.69s | 0.00s | hit-decay | cerah | -5 dB | 
+- `ui-sound-021` | 0.18s | 0.00s | short | cerah | +1 dB | 
+- `ui-sound-022` | 0.33s | 0.01s | short | cerah | +5 dB | 
+- `ui-sound-023` | 1.11s | 0.01s | hit-decay | cerah | +12 dB | 
+- `ui-sound-024` | 0.42s | 0.00s | hit-decay | cerah | +2 dB | 
+- `ui-sound-025` | 0.22s | 0.00s | short | cerah | -1 dB | 
+- `ui-sound-026` | 0.47s | 0.17s | short | cerah | -13 dB | 
+- `ui-sound-027` | 0.52s | 0.16s | short | cerah | -13 dB | 
+- `ui-sound-028` | 0.36s | 0.08s | short | cerah | -0 dB | 
+- `ui-sound-029` | 0.92s | 0.06s | hit-decay | cerah | -2 dB | 
+- `ui-sound-030` | 0.19s | 0.12s | short | sedang | -16 dB | 
+- `ui-sound-031` | 1.11s | 0.09s | sustain | cerah | -2 dB | 
+- `ui-sound-032` | 0.22s | 0.12s | short | sedang | -10 dB | 
+- `ui-sound-033` | 0.06s | 0.06s | tick | sedang, tonal | -15 dB | 
+
+## Premium SFX/build up  (riser)
+
+- `build-up-001` | 1.84s | 1.71s | rise | sedang | +3 dB | duplikat dari risers-015
+- `build-up-002` | 1.84s | 1.71s | rise | sedang | +3 dB | duplikat dari risers-015
+- `build-up-003` | 2.14s | 2.76s | rise | bass, gelap | -10 dB | 
+- `build-up-004` | 2.14s | 2.76s | rise | bass, gelap | -10 dB | duplikat dari build-up-003
+- `build-up-005` | 2.37s | 1.88s | rise | bass, sedang | -4 dB | 
+- `build-up-006` | 2.37s | 1.88s | rise | bass, sedang | -4 dB | duplikat dari build-up-005
+- `build-up-007` | 1.69s | 1.33s | rise | bass, sedang | -5 dB | 
+- `build-up-008` | 1.69s | 1.33s | rise | bass, sedang | -5 dB | duplikat dari build-up-007
+- `build-up-009` | 2.35s | 2.56s | rise | bass, sedang | +5 dB | 
+- `build-up-010` | 2.35s | 2.56s | rise | bass, sedang | +5 dB | duplikat dari build-up-009
+- `build-up-011` | 9.76s | 4.51s | sequence | bass, multi, sedang | -15 dB | 
+- `build-up-012` | 9.76s | 4.51s | sequence | bass, multi, sedang | -15 dB | duplikat dari build-up-011
+- `build-up-013` | 4.81s | 5.09s | sequence | cerah, multi | -13 dB | duplikat dari risers-017
+- `build-up-014` | 16.45s | 0.26s | sustain | bass, gelap, tonal | -10 dB | 
+- `build-up-015` | 2.07s | 1.36s | sequence | bass, gelap, multi, tonal | -19 dB | 
+- `build-up-016` | 2.07s | 1.36s | sequence | bass, gelap, multi, tonal | -19 dB | duplikat dari build-up-015
+
+## Premium SFX/liquid  (liquid)
+
+- `liquid-001` | 0.68s | 0.34s | sustain | sedang | -9 dB | 
+- `liquid-002` | 0.70s | 0.11s | hit-decay | bass, sedang | -5 dB | 
+- `liquid-003` | 0.39s | 0.32s | short | sedang | -14 dB | 
+- `liquid-004` | 1.65s | 0.22s | sequence | multi, sedang | -17 dB | 
+- `liquid-005` | 2.67s | 2.21s | sustain | sedang | -19 dB | 
+
+## Premium SFX/pen click  (pen)
+
+- `pen-click-001` | 3.33s | 0.17s | sequence | cerah, multi | -6 dB | 
+- `pen-click-002` | 22.23s | 9.60s | sequence | cerah, multi | +7 dB | 
+- `pen-click-003` | 10.12s | 0.73s | sequence | cerah, multi | +6 dB | 
+- `pen-click-004` | 0.42s | 0.30s | short | cerah | -3 dB | 
+- `pen-click-005` | 0.74s | 0.36s | sustain | cerah | +7 dB | 
+- `pen-click-006` | 23.22s | 17.24s | sequence | cerah, multi | -4 dB | 
+
+## Premium SFX/pop  (pop)
+
+- `pop-001` | 0.18s | 0.11s | short | sedang | -8 dB | 
+- `pop-002` | 0.02s | 0.00s | tick | gelap, tonal | -20 dB | 
+- `pop-003` | 0.18s | 0.16s | short | bass, sedang | -11 dB | 
+- `pop-004` | 0.21s | 0.59s | short | sedang, tonal | -13 dB | 
+- `pop-005` | 0.09s | 0.03s | tick | sedang, tonal | -4 dB | 
+- `pop-006` | 0.21s | 0.59s | short | sedang, tonal | -13 dB | duplikat dari pop-004
+- `pop-007` | 0.09s | 0.03s | tick | sedang, tonal | -4 dB | duplikat dari pop-005
+- `pop-008` | 0.09s | 0.03s | tick | sedang, tonal | -17 dB | 
+- `pop-009` | 0.26s | 0.97s | short | sedang | -14 dB | 
+- `pop-010` | 0.16s | 0.06s | short | gelap, tonal | -19 dB | 
+- `pop-011` | 0.21s | 0.59s | short | sedang, tonal | -13 dB | duplikat dari pop-004
+- `pop-012` | 0.22s | 0.00s | short | gelap, tonal | -4 dB | 
+- `pop-013` | 0.21s | 0.59s | short | sedang, tonal | -13 dB | duplikat dari pop-004
+- `pop-014` | 0.07s | 0.12s | tick | gelap | -20 dB | 
+
+## Premium SFX/shining  (shimmer)
+
+- `shining-001` | 3.04s | 1.31s | sustain | sedang | -12 dB | 
+- `shining-002` | 5.19s | 0.94s | sustain | bass, gelap | -8 dB | 
+- `shining-003` | 1.31s | 0.11s | sustain | bass, sedang | -10 dB | 
+
+## Premium SFX/wooshes  (whoosh)
+
+- `wooshes-001` | 3.24s | 1.32s | sequence | bass, gelap, multi, tonal | -19 dB | 
+- `wooshes-002` | 50.22s | 33.22s | sequence | bass, gelap, multi | -18 dB | 
+- `wooshes-003` | 2.60s | 1.05s | sustain | bass, gelap, tonal | -20 dB | 
+- `wooshes-004` | 9.12s | 4.49s | sustain | gelap | -8 dB | 
+- `wooshes-005` | 1.21s | 0.74s | sustain | bass, gelap | -13 dB | 
+- `wooshes-006` | 1.16s | 0.49s | sustain | bass, gelap, tonal | -18 dB | 
+- `wooshes-007` | 4.20s | 1.64s | sustain | bass, gelap, tonal | -21 dB | 
+- `wooshes-008` | 3.02s | 0.93s | sequence | bass, gelap, multi | -10 dB | 
+- `wooshes-009` | 2.00s | 0.75s | sustain | bass, gelap, tonal | -16 dB | 
+- `wooshes-010` | 41.29s | 29.18s | sequence | bass, multi, sedang | -10 dB | 
+- `wooshes-011` | 2.75s | 0.77s | sustain | bass, gelap, tonal | -13 dB | 
+- `wooshes-012` | 2.75s | 0.77s | sustain | bass, gelap, tonal | -13 dB | duplikat dari wooshes-011
+- `wooshes-013` | 2.75s | 0.77s | sustain | bass, gelap, tonal | -13 dB | duplikat dari wooshes-011
+- `wooshes-014` | 2.37s | 0.64s | sustain | bass, gelap | -11 dB | 
+- `wooshes-015` | 1.16s | 0.42s | sustain | bass, gelap | -12 dB | 
+- `wooshes-016` | 2.75s | 0.77s | sustain | bass, gelap, tonal | -13 dB | duplikat dari wooshes-011
+- `wooshes-017` | 1.16s | 0.42s | sustain | bass, gelap | -12 dB | duplikat dari wooshes-015
+- `wooshes-019` | 1.93s | 0.48s | sustain | bass, sedang | -17 dB | 
+- `wooshes-020` | 2.75s | 0.77s | sustain | bass, gelap, tonal | -13 dB | duplikat dari wooshes-013
+- `wooshes-021` | 2.75s | 0.77s | sustain | bass, gelap, tonal | -13 dB | duplikat dari wooshes-013
+- `wooshes-022` | 2.75s | 0.77s | sustain | bass, gelap, tonal | -13 dB | duplikat dari wooshes-011
+- `wooshes-023` | 3.24s | 1.32s | sequence | bass, gelap, multi, tonal | -19 dB | duplikat dari wooshes-001
+- `wooshes-024` | 0.92s | 0.66s | sustain | sedang | -10 dB | 
+- `wooshes-025` | 25.87s | 4.26s | sustain | gelap | -8 dB | 
+- `wooshes-026` | 1.85s | 0.44s | sustain | bass, sedang | -9 dB | 
+- `wooshes-027` | 3.71s | 1.22s | sustain | gelap, tonal | +4 dB | 
+- `wooshes-028` | 2.24s | 1.07s | sequence | bass, gelap, multi, tonal | -23 dB | 
+- `wooshes-029` | 2.05s | 0.93s | sustain | bass, gelap, tonal | -20 dB | 
+- `wooshes-030` | 3.21s | 0.12s | hit-decay | sedang | -1 dB | 
+- `wooshes-031` | 2.95s | 1.73s | sustain | sedang | +1 dB | 
+- `wooshes-032` | 5.06s | 2.64s | sequence | multi, sedang | +0 dB | 
+- `wooshes-033` | 6.10s | 4.69s | sequence | cerah, multi | -4 dB | 
+- `wooshes-034` | 5.40s | 1.19s | sustain | cerah | -7 dB | 
+- `wooshes-035` | 1.46s | 0.84s | sustain | bass, cerah | -1 dB | 
+- `wooshes-037` | 0.85s | 0.54s | sustain | bass, gelap | -15 dB | 
+- `wooshes-038` | 13.49s | 6.42s | sustain | bass, sedang | +4 dB | 
+- `wooshes-039` | 2.00s | 0.49s | sequence | bass, gelap, multi | -9 dB | 
+- `wooshes-040` | 1.94s | 0.53s | sustain | cerah | -8 dB | 
+- `wooshes-041` | 0.96s | 0.78s | sustain | gelap, tonal | -14 dB | 
+- `wooshes-042` | 5.36s | 1.53s | sustain | sedang | -11 dB | 
+- `wooshes-043` | 2.86s | 1.34s | sequence | bass, gelap, multi, tonal | -21 dB | 
+- `wooshes-044` | 1.60s | 0.16s | hit-decay | sedang, tonal | -10 dB | 
+- `wooshes-045` | 0.77s | 0.35s | sequence | multi, sedang | +1 dB | 
+- `wooshes-046` | 14.20s | 8.90s | sustain | bass, sedang | +3 dB | 
+- `wooshes-047` | 2.42s | 1.02s | sustain | bass, gelap, tonal | -4 dB | 
+- `wooshes-048` | 2.21s | 1.14s | sustain | bass, sedang | -16 dB | 
+- `wooshes-049` | 1.60s | 0.29s | sustain | gelap, tonal | -11 dB | 
+- `wooshes-050` | 4.46s | 0.36s | sequence | bass, multi, sedang | -17 dB | 
+- `wooshes-051` | 1.01s | 0.39s | sustain | cerah | -14 dB | 
+- `wooshes-052` | 0.95s | 0.29s | sustain | cerah | -17 dB | 
+- `wooshes-053` | 1.22s | 0.33s | sustain | cerah | -12 dB | 
+- `wooshes-054` | 4.27s | 3.53s | rise | bass, sedang | -11 dB | 
+- `wooshes-055` | 4.12s | 0.85s | sustain | bass, gelap | -16 dB | 
+- `wooshes-056` | 2.66s | 0.27s | sustain | bass, sedang | -14 dB | 
+- `wooshes-057` | 1.70s | 0.74s | sequence | bass, multi, sedang | -16 dB | 
+- `wooshes-058` | 2.25s | 0.73s | sustain | gelap | -13 dB | 

@@ -1,13 +1,11 @@
 # Laporan katalog
 
-- Suara terkatalog: 450
-- Duplikat terdeteksi: 9
-- File diabaikan (bukan audio/rusak): 2
+- Suara terkatalog: 1038
+- Duplikat terdeteksi: 57
+- File diabaikan (bukan audio/rusak): 0
 
 ## Diabaikan
 
-- Premium SFX/Glitch/Glitch Sound Effects Pack/GLITCH_SOUND_EFFECTS_PACK_001
-- Premium SFX/Hits/HITS_001
 
 ## Duplikat
 
@@ -20,12 +18,60 @@
 - Premium SFX/Glitch/GLITCH_045.mp3 = glitch-030
 - Premium SFX/Hits/HITS_017.mp3 = hits-016
 - Premium SFX/Hits/HITS_019.mp3 = hits-018
+- Premium SFX/Notifications/NOTIFICATIONS_141.wav = notifications-140
+- Premium SFX/Notifications/NOTIFICATIONS_147.mp3 = notifications-136
+- Premium SFX/Notifications/NOTIFICATIONS_149.mp3 = notifications-043
+- Premium SFX/Notifications/NOTIFICATIONS_211.mp3 = notifications-060
+- Premium SFX/Notifications/NOTIFICATIONS_225.mp3 = notifications-035
+- Premium SFX/Notifications/NOTIFICATIONS_229.mp3 = notifications-070
+- Premium SFX/Notifications/NOTIFICATIONS_232.mp3 = notifications-071
+- Premium SFX/Notifications/NOTIFICATIONS_243.mp3 = notifications-160
+- Premium SFX/Notifications/NOTIFICATIONS_262.mp3 = notifications-091
+- Premium SFX/Notifications/NOTIFICATIONS_283.mp3 = notifications-073
+- Premium SFX/Paper Sound Effects/PAPER_SOUND_EFFECTS_011.wav = paper-sound-effects-010
+- Premium SFX/Paper Sound Effects/PAPER_SOUND_EFFECTS_013.wav = paper-sound-effects-012
+- Premium SFX/Paper Sound Effects/PAPER_SOUND_EFFECTS_015.wav = paper-sound-effects-014
+- Premium SFX/Paper Sound Effects/PAPER_SOUND_EFFECTS_017.wav = paper-sound-effects-016
+- Premium SFX/Paper Sound Effects/PAPER_SOUND_EFFECTS_021.wav = paper-sound-effects-020
+- Premium SFX/Paper Sound Effects/PAPER_SOUND_EFFECTS_023.wav = paper-sound-effects-022
+- Premium SFX/Paper Sound Effects/PAPER_SOUND_EFFECTS_027.wav = paper-sound-effects-026
+- Premium SFX/Paper Sound Effects/PAPER_SOUND_EFFECTS_029.wav = paper-sound-effects-028
+- Premium SFX/Swoosh/SWOOSH_026.mp3 = swoosh-025
+- Premium SFX/Transition Sound Effects/TRANSITION_SOUND_EFFECTS_110.mp3 = transition-sound-effects-090
+- Premium SFX/Transition Sound Effects/TRANSITION_SOUND_EFFECTS_126.mp3 = transition-sound-effects-009
+- Premium SFX/Transition Sound Effects/TRANSITION_SOUND_EFFECTS_127.mp3 = transition-sound-effects-012
+- Premium SFX/Transition Sound Effects/TRANSITION_SOUND_EFFECTS_130.mp3 = transition-sound-effects-029
+- Premium SFX/Transition Sound Effects/TRANSITION_SOUND_EFFECTS_131.mp3 = transition-sound-effects-005
+- Premium SFX/Transition Sound Effects/TRANSITION_SOUND_EFFECTS_132.mp3 = transition-sound-effects-107
+- Premium SFX/Transition Sound Effects/TRANSITION_SOUND_EFFECTS_133.mp3 = transition-sound-effects-014
+- Premium SFX/Ui Sound/UI_SOUND_016.mp3 = digital-020
+- Premium SFX/build up/BUILD_UP_001.mp3 = risers-015
+- Premium SFX/build up/BUILD_UP_002.mp3 = risers-015
+- Premium SFX/build up/BUILD_UP_004.wav = build-up-003
+- Premium SFX/build up/BUILD_UP_006.wav = build-up-005
+- Premium SFX/build up/BUILD_UP_008.wav = build-up-007
+- Premium SFX/build up/BUILD_UP_010.mp3 = build-up-009
+- Premium SFX/build up/BUILD_UP_012.mp3 = build-up-011
+- Premium SFX/build up/BUILD_UP_013.mp3 = risers-017
+- Premium SFX/build up/BUILD_UP_016.mp3 = build-up-015
+- Premium SFX/pop/POP_006.mp3 = pop-004
+- Premium SFX/pop/POP_007.mp3 = pop-005
+- Premium SFX/pop/POP_011.mp3 = pop-004
+- Premium SFX/pop/POP_013.mp3 = pop-004
+- Premium SFX/wooshes/WOOSHES_012.wav = wooshes-011
+- Premium SFX/wooshes/WOOSHES_013.wav = wooshes-011
+- Premium SFX/wooshes/WOOSHES_016.wav = wooshes-011
+- Premium SFX/wooshes/WOOSHES_017.wav = wooshes-015
+- Premium SFX/wooshes/WOOSHES_020.wav = wooshes-013
+- Premium SFX/wooshes/WOOSHES_021.wav = wooshes-013
+- Premium SFX/wooshes/WOOSHES_022.wav = wooshes-011
+- Premium SFX/wooshes/WOOSHES_023.mp3 = wooshes-001
 
 ## Lisensi
 
 - blocked (jangan disebar publik): 0
-- check (ada petunjuk sumber, cek lisensinya): 236
-- clean (tidak ada petunjuk sumber di metadata): 214
+- check (ada petunjuk sumber, cek lisensinya): 484
+- clean (tidak ada petunjuk sumber di metadata): 554
 
 ### blocked
 
@@ -197,6 +243,7 @@
 - Premium SFX/Hits/HITS_018.mp3 — Himanshu Mehra
 - Premium SFX/Hits/HITS_019.mp3 — Himanshu Mehra
 - Premium SFX/Hits/HITS_028.wav — misterhorse.tv
+- Premium SFX/Notifications/NOTIFICATIONS 1.1.mp3 — library tidak diketahui (tag kata kunci komersial)
 - Premium SFX/Notifications/NOTIFICATIONS_002.mp3 — library tidak diketahui (tag kata kunci komersial)
 - Premium SFX/Notifications/NOTIFICATIONS_003.mp3 — library tidak diketahui (tag kata kunci komersial)
 - Premium SFX/Notifications/NOTIFICATIONS_004.mp3 — library tidak diketahui (tag kata kunci komersial)
@@ -268,3 +315,250 @@
 - Premium SFX/Notifications/NOTIFICATIONS_070.mp3 — library tidak diketahui (tag kata kunci komersial)
 - Premium SFX/Notifications/NOTIFICATIONS_071.mp3 — library tidak diketahui (tag kata kunci komersial)
 - Premium SFX/Notifications/NOTIFICATIONS_072.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_073.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_074.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_075.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_076.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_077.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_078.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_079.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_080.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_081.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_082.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_083.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_084.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_085.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_086.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_087.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_088.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_089.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_090.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_091.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_092.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_093.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_094.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_095.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_096.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_097.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_098.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_099.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_100.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_101.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_102.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_103.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_104.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_105.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_106.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_107.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_108.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_109.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_110.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_111.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_112.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_113.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_114.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_115.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_116.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_117.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_118.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_119.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_120.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_121.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_122.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_123.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_124.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_125.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_126.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_127.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_128.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_129.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_130.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_131.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_132.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_133.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_134.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_135.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_136.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_137.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_138.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_139.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_140.wav — FoolBoy Media
+- Premium SFX/Notifications/NOTIFICATIONS_141.wav — FoolBoy Media
+- Premium SFX/Notifications/NOTIFICATIONS_144.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_145.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_146.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_147.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_148.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_149.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_150.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_151.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_152.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_153.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_154.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_155.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_156.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_157.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_158.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_159.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_160.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_161.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_162.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_163.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_164.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_165.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_166.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_167.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_168.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_169.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_170.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_171.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_172.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_173.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_174.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_175.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_176.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_177.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_178.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_179.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_180.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_181.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_182.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_183.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_184.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_185.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_186.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_187.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_188.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_189.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_190.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_191.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_192.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_193.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_194.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_195.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_196.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_197.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_198.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_199.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_200.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_201.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_202.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_203.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_204.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_205.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_206.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_207.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_208.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_209.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_210.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_211.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_212.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_213.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_214.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_215.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_216.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_217.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_218.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_219.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_220.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_221.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_222.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_223.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_224.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_225.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_226.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_227.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_228.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_229.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_230.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_231.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_232.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_233.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_234.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_235.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_236.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_237.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_238.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_239.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_240.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_241.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_242.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_243.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_244.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_245.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_246.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_247.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_248.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_249.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_250.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_251.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_252.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_253.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_254.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_255.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_256.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_257.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_258.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_259.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_260.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_261.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_262.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_263.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_264.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_265.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_266.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_267.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_268.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_269.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_270.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_272.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_273.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_274.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_275.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_276.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_277.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_278.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_279.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_280.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_281.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_282.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_283.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_284.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_285.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_286.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_287.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_288.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_289.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_290.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_291.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_292.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_293.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_294.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_295.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_296.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_297.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_298.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_299.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_300.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Notifications/NOTIFICATIONS_301.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Paper Sound Effects/PAPER_SOUND_EFFECTS_030.wav — InspectorJ
+- Premium SFX/Phone/PHONE_001.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Risers/RISERS_015.mp3 — Himanshu Mehra
+- Premium SFX/Risers/RISERS_017.mp3 — Himanshu Mehra
+- Premium SFX/Swoosh/SWOOSH_004.wav — Deer Edits/Sony Vegas
+- Premium SFX/Swoosh/SWOOSH_025.mp3 — Himanshu Mehra
+- Premium SFX/Swoosh/SWOOSH_026.mp3 — Himanshu Mehra
+- Premium SFX/Ui Sound/UI_SOUND_009.mp3 — kanadaka
+- Premium SFX/Ui Sound/UI_SOUND_010.mp3 — kanadaka
+- Premium SFX/Ui Sound/UI_SOUND_032.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/Ui Sound/UI_SOUND_033.mp3 — library tidak diketahui (tag kata kunci komersial)
+- Premium SFX/build up/BUILD_UP_001.mp3 — Himanshu Mehra
+- Premium SFX/build up/BUILD_UP_002.mp3 — Himanshu Mehra
+- Premium SFX/build up/BUILD_UP_013.mp3 — Himanshu Mehra
+- Premium SFX/build up/BUILD_UP_015.mp3 — Himanshu Mehra
+- Premium SFX/build up/BUILD_UP_016.mp3 — Himanshu Mehra
+- Premium SFX/pen click/PEN_CLICK_006.wav — Free Audio Zone
+- Premium SFX/pop/POP_002.wav — misterhorse.tv
+- Premium SFX/wooshes/WOOSHES_003.mp3 — REVERSE
+- Premium SFX/wooshes/WOOSHES_004.mp3 — Swish
+- Premium SFX/wooshes/WOOSHES_026.wav — Vanderz
