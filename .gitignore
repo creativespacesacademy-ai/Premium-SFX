@@ -1,0 +1,17 @@
+# File sistem macOS (.DS_Store) yang ikut ter-rename jadi tanpa ekstensi
+.DS_Store
+Premium SFX/Glitch/GLITCH_001
+Premium SFX/Hits/HITS_001
+Premium SFX/Paper Sound Effects/PAPER_SOUND_EFFECTS_001
+Premium SFX/Ui Sound/UI_SOUND_001
+Premium SFX/Glitch/Glitch Sound Effects Pack/GLITCH_SOUND_EFFECTS_PACK_001
+Premium SFX/Hits/Subdrop Low/SUBDROP_LOW_001
+
+# Arsip asli Hits (84 MB): isinya sama dengan file HITS_xxx dan memuat file Epidemic Sound.
+Premium SFX/Hits/HITS_026.zip
+
+# File Epidemic Sound (metadata: "SFX Producer"). Lisensinya per pelanggan, tidak boleh disebar publik.
+Premium SFX/Hits/HITS_022.mp3
+Premium SFX/Hits/HITS_023.mp3
+
+__pycache__/
